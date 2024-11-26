@@ -29,7 +29,8 @@ The dataset is imbalanced, with the "Y" class (eligible clients) being approxima
 
 Given that in our scenario, predicting both eligible and ineligible clients correctly is crucial, the F1 score is a more reliable metric than accuracy.
 
-Project Structure
-LoanEligibility-EDA-ModelBuilding.ipynb: The main notebook where we perform the following steps:
-Exploratory Data Analysis (EDA): Visualizations are used to extract insights, understand feature distributions, and identify correlations.
-Model Building: Various machine learning models are trained to predict loan eligibility. This includes data preprocessing, model training, and evaluation based on the F1 score.
+## Project Structure
+The main notebook where we perform the following steps is LoanEligibility-EDA-ModelBuilding.ipynb:
+
+- Exploratory Data Analysis (EDA): Visualizations are used to extract insights, understand feature distributions, and identify correlations.
+- Model Building: Various machine learning models are trained to predict loan eligibility. This includes data preprocessing, model training, and evaluation based on the F1 score.
